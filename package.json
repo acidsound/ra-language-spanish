@@ -1,0 +1,23 @@
+{
+  "name": "@spectrum/ra-language-spanish",
+  "version": "0.0.1",
+  "description": "Spanish Messages for React-Admin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidsound/ra-language-spanish.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "admin-on-rest",
+    "translation",
+    "spanish"
+  ],
+  "author": "spectrum <spectrick@gmail.com> (https://spectrumdig.blogspot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acidsound/ra-language-spanish/issues"
+  },
+  "homepage": "https://github.com/acidsound/ra-language-spanish#readme"
+}
